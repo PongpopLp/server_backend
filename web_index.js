@@ -25,12 +25,12 @@ const mssql = require('mssql');
 // };
 const config = {
   user: 'sa',
-  password: 'ddotv3_password',
-  server: '192.168.0.114',
-  // port: 10066,
+  password: 'ThitinanD-D0T',
+  server: '10.34.112.53',
+  port: 1433,
   database: 'dDOTv3',
   options: {
-    encrypt: true,
+    encrypt: false,
     trustServerCertificate: true,
   },
 };

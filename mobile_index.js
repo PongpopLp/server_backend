@@ -4,9 +4,9 @@ const sql = require('mssql');
 
 const config = {
   user: 'sa',
-  password: 'ddotv3_password',
-  server: '0.tcp.ap.ngrok.io',
-  port: 18901,
+  password: 'ThitinanD-D0T',
+  server: '10.34.112.53',
+  port: 1433,
   database: 'dDOTv3',
   options: {
     encrypt: false,
